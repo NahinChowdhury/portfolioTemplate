@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Social Distribution'
 cover: './socialDistribution.png'
 github: 'https://github.com/NahinChowdhury/SocialDistribution'
